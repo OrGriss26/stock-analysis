@@ -11,13 +11,17 @@ The data sets were provided with the intent of facilitating the client's ability
 
 ## Results
 
-By using tickers to determine the type of stock that was being displayed, there are several conclusions based on the data given. One is that in general, the stock categories from 2017 tended to have a successful return (11/12 major stocks types yielded a positive return on the investment for the year of 2017). 
+By using tickers to determine the type of stock that was being displayed, there are several conclusions based on the data given. One is that in general, the stock categories from 2017 tended to have a successful return (11/12 major stocks types yielded a positive return on the investment for the year of 2017). We can also see the time that the code took to run through the information.
 
 ![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 
-However, in 2018 only two of the twelve stock types had a positive return. From this, we can conclude that people probably made money off their stock in 2017, while in 2018 there was a much higher chance for their stock to have gone down in value.
+![2017.png](2017.png)
+
+However, in 2018 only two of the twelve stock types had a positive return. From this, we can conclude that people probably made money off their stock in 2017, while in 2018 there was a much higher chance for their stock to have gone down in value. We can also see the time that the code took to run through the information.
 
 ![VBA_Challenge_2018.png](VBA_Challenge_2018.png)
+
+![2018.png](2018.png)
 
 
 ### Original Code
