@@ -30,11 +30,23 @@ In this imagen we can see the time that the code took to run through the informa
 
 ### Original Code
 
-![alt text](http://url/to/img.png)
+* First part.
+
+![Original_Code1.png](Original_Code1.png)
+
+* Second part.
+
+![Original_Code2.png](Original_Code2.png)
 
 ### Refactored Code
 
-![alt text](http://url/to/img.png)
+* First part.
+
+![Refactored_Code1.png](Refactored_Code1.png)
+
+* Second part.
+
+![Refactored_Code2.png](Refactored_Code2.png)
 
 
 ## Summary
